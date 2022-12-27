@@ -7,7 +7,7 @@
 
 This is the tenth project of the Back-end curriculum developed at Trybe.
 
-In this project I developed MongoDB queries to manipulate and access data from a database previously implemented.
+In this project I have developed MongoDB queries to manipulate and access data from a database previously implemented.
 <br />
 
 ## :man_technologist: Skills
